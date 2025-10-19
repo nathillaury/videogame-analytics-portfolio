@@ -77,6 +77,6 @@ Acesse também pelo Kaggle: [link-do-notebook-aqui](https://www.kaggle.com/)
 - Explorar análises regionais.  
 - Aplicar modelos de previsão para identificar tendências futuras de mercado.
 
----
+Att
 
-Feito com 💻 por [Seu Nome]
+Nathali
